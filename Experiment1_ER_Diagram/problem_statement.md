@@ -29,7 +29,7 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 
 | Entity | Attributes (PK, FK) | Notes |
 |--------|--------------------|-------|
-|        |                    |       |
+|  member      |                    |       |
 |        |                    |       |
 |        |                    |       |
 |        |                    |       |
